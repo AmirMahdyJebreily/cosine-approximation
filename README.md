@@ -1,4 +1,4 @@
-# Cosine Approximation Wهth C#
+# Cosine Approximation With C#
 This program approximates cosine in terms of radians and degrees by using the algorithm of cosine approximation formula with sigma.
 ## How to work ? 
 This code, includes CosApptoximation class that's a static class and append some Extention Methods to Single Types and this methodes are compute the cosine of a angle like follow :  
